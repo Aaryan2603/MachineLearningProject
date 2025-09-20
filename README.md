@@ -1,2 +1,2 @@
-Machine Learning Projects
+Machine Learning Projects<br>
 My Machine Projects
