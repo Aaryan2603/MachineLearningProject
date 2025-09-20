@@ -1,3 +1,2 @@
-Housing Predection Project
-My Machine Learning House Prediction Project
-
+Machine Learning Projects
+My Machine Projects
